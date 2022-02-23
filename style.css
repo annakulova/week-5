@@ -49,6 +49,10 @@ div {
     width: 350px;
 }
 
+.container_three {
+    width: 250vw;
+}
+
 footer {
     background-color: rgb(165, 241, 146);
 }
